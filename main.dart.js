@@ -24815,7 +24815,7 @@ var $async$HC=A.D(function(a,b){if(a===1)return A.z(b,r)
 while(true)switch(s){case 0:if($.H==null)A.aBN()
 $.H.toString
 s=2
-return A.G($.mp().yn(0,".env"),$async$HC)
+return A.G($.mp().yn(0,"env"),$async$HC)
 case 2:q=$.mp().m6("FIREBASE_API_KEY",null)
 q.toString
 p=$.mp().m6("FIREBASE_AUTH_DOMAIN",null)
