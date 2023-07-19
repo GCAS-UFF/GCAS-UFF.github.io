@@ -1,1 +1,80 @@
-{".env":[".env"],"assets/.env":["assets/.env"],"assets/images/green_logo.png":["assets/images/green_logo.png"],"lib/modules/admin/i18n/en_US.json":["lib/modules/admin/i18n/en_US.json"],"lib/modules/admin/i18n/it_IT.json":["lib/modules/admin/i18n/it_IT.json"],"lib/modules/admin/i18n/pt_BR.json":["lib/modules/admin/i18n/pt_BR.json"],"lib/modules/admin/submodules/meal/presenter/i18n/en_US.json":["lib/modules/admin/submodules/meal/presenter/i18n/en_US.json"],"lib/modules/admin/submodules/meal/presenter/i18n/it_IT.json":["lib/modules/admin/submodules/meal/presenter/i18n/it_IT.json"],"lib/modules/admin/submodules/meal/presenter/i18n/pt_BR.json":["lib/modules/admin/submodules/meal/presenter/i18n/pt_BR.json"],"lib/modules/admin/submodules/meal_item/presenter/i18n/en_US.json":["lib/modules/admin/submodules/meal_item/presenter/i18n/en_US.json"],"lib/modules/admin/submodules/meal_item/presenter/i18n/it_IT.json":["lib/modules/admin/submodules/meal_item/presenter/i18n/it_IT.json"],"lib/modules/admin/submodules/meal_item/presenter/i18n/pt_BR.json":["lib/modules/admin/submodules/meal_item/presenter/i18n/pt_BR.json"],"lib/modules/admin/submodules/menu/presenter/i18n/en_US.json":["lib/modules/admin/submodules/menu/presenter/i18n/en_US.json"],"lib/modules/admin/submodules/menu/presenter/i18n/it_IT.json":["lib/modules/admin/submodules/menu/presenter/i18n/it_IT.json"],"lib/modules/admin/submodules/menu/presenter/i18n/pt_BR.json":["lib/modules/admin/submodules/menu/presenter/i18n/pt_BR.json"],"lib/shared/ui/meal_item_card/i18n/en_US.json":["lib/shared/ui/meal_item_card/i18n/en_US.json"],"lib/shared/ui/meal_item_card/i18n/it_IT.json":["lib/shared/ui/meal_item_card/i18n/it_IT.json"],"lib/shared/ui/meal_item_card/i18n/pt_BR.json":["lib/shared/ui/meal_item_card/i18n/pt_BR.json"],"lib/shared/ui/menu_card/i18n/en_US.json":["lib/shared/ui/menu_card/i18n/en_US.json"],"lib/shared/ui/menu_card/i18n/it_IT.json":["lib/shared/ui/menu_card/i18n/it_IT.json"],"lib/shared/ui/menu_card/i18n/pt_BR.json":["lib/shared/ui/menu_card/i18n/pt_BR.json"],"packages/cupertino_icons/assets/CupertinoIcons.ttf":["packages/cupertino_icons/assets/CupertinoIcons.ttf"],"packages/localization/test/assets/lang/en_US.json":["packages/localization/test/assets/lang/en_US.json"],"packages/localization/test/assets/lang/pt_BR.json":["packages/localization/test/assets/lang/pt_BR.json"],"packages/localization/test/assets/lang2/en_US.json":["packages/localization/test/assets/lang2/en_US.json"],"packages/localization/test/assets/lang2/pt_BR.json":["packages/localization/test/assets/lang2/pt_BR.json"]}
+{
+    ".env": [
+        "env2"
+    ],
+    "assets/.env": [
+        "assets/.env"
+    ],
+    "assets/images/green_logo.png": [
+        "assets/images/green_logo.png"
+    ],
+    "lib/modules/admin/i18n/en_US.json": [
+        "lib/modules/admin/i18n/en_US.json"
+    ],
+    "lib/modules/admin/i18n/it_IT.json": [
+        "lib/modules/admin/i18n/it_IT.json"
+    ],
+    "lib/modules/admin/i18n/pt_BR.json": [
+        "lib/modules/admin/i18n/pt_BR.json"
+    ],
+    "lib/modules/admin/submodules/meal/presenter/i18n/en_US.json": [
+        "lib/modules/admin/submodules/meal/presenter/i18n/en_US.json"
+    ],
+    "lib/modules/admin/submodules/meal/presenter/i18n/it_IT.json": [
+        "lib/modules/admin/submodules/meal/presenter/i18n/it_IT.json"
+    ],
+    "lib/modules/admin/submodules/meal/presenter/i18n/pt_BR.json": [
+        "lib/modules/admin/submodules/meal/presenter/i18n/pt_BR.json"
+    ],
+    "lib/modules/admin/submodules/meal_item/presenter/i18n/en_US.json": [
+        "lib/modules/admin/submodules/meal_item/presenter/i18n/en_US.json"
+    ],
+    "lib/modules/admin/submodules/meal_item/presenter/i18n/it_IT.json": [
+        "lib/modules/admin/submodules/meal_item/presenter/i18n/it_IT.json"
+    ],
+    "lib/modules/admin/submodules/meal_item/presenter/i18n/pt_BR.json": [
+        "lib/modules/admin/submodules/meal_item/presenter/i18n/pt_BR.json"
+    ],
+    "lib/modules/admin/submodules/menu/presenter/i18n/en_US.json": [
+        "lib/modules/admin/submodules/menu/presenter/i18n/en_US.json"
+    ],
+    "lib/modules/admin/submodules/menu/presenter/i18n/it_IT.json": [
+        "lib/modules/admin/submodules/menu/presenter/i18n/it_IT.json"
+    ],
+    "lib/modules/admin/submodules/menu/presenter/i18n/pt_BR.json": [
+        "lib/modules/admin/submodules/menu/presenter/i18n/pt_BR.json"
+    ],
+    "lib/shared/ui/meal_item_card/i18n/en_US.json": [
+        "lib/shared/ui/meal_item_card/i18n/en_US.json"
+    ],
+    "lib/shared/ui/meal_item_card/i18n/it_IT.json": [
+        "lib/shared/ui/meal_item_card/i18n/it_IT.json"
+    ],
+    "lib/shared/ui/meal_item_card/i18n/pt_BR.json": [
+        "lib/shared/ui/meal_item_card/i18n/pt_BR.json"
+    ],
+    "lib/shared/ui/menu_card/i18n/en_US.json": [
+        "lib/shared/ui/menu_card/i18n/en_US.json"
+    ],
+    "lib/shared/ui/menu_card/i18n/it_IT.json": [
+        "lib/shared/ui/menu_card/i18n/it_IT.json"
+    ],
+    "lib/shared/ui/menu_card/i18n/pt_BR.json": [
+        "lib/shared/ui/menu_card/i18n/pt_BR.json"
+    ],
+    "packages/cupertino_icons/assets/CupertinoIcons.ttf": [
+        "packages/cupertino_icons/assets/CupertinoIcons.ttf"
+    ],
+    "packages/localization/test/assets/lang/en_US.json": [
+        "packages/localization/test/assets/lang/en_US.json"
+    ],
+    "packages/localization/test/assets/lang/pt_BR.json": [
+        "packages/localization/test/assets/lang/pt_BR.json"
+    ],
+    "packages/localization/test/assets/lang2/en_US.json": [
+        "packages/localization/test/assets/lang2/en_US.json"
+    ],
+    "packages/localization/test/assets/lang2/pt_BR.json": [
+        "packages/localization/test/assets/lang2/pt_BR.json"
+    ]
+}
