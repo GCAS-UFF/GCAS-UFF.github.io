@@ -25111,7 +25111,7 @@ var $async$a2O=A.z(function(a,b){if(a===1)return A.v(b,r)
 while(true)switch(s){case 0:if($.an==null)A.ayS()
 $.an.toString
 s=2
-return A.C($.m8().xZ(0,".env"),$async$a2O)
+return A.C($.m8().xZ(0,"env2"),$async$a2O)
 case 2:q=$.m8().ew(0,"FIREBASE_API_KEY")
 p=$.m8().ew(0,"FIREBASE_AUTH_DOMAIN")
 o=$.m8().ew(0,"FIREBASE_DATABASE_URL")
