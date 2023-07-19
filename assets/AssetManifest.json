@@ -1,9 +1,6 @@
 {
-    ".env": [
+    "env2": [
         "env2"
-    ],
-    "assets/.env": [
-        "assets/env2"
     ],
     "assets/images/green_logo.png": [
         "assets/images/green_logo.png"
