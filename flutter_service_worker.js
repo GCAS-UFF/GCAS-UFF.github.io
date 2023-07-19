@@ -3,10 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "bd09bda5aee7f43e630b8a15df216037",
-"assets/AssetManifest.json": "4941ea8eb91924b9b787599787f50b34",
+const RESOURCES = {"assets/AssetManifest.bin": "6b3bbac33edc7945a27bf4f3921452e9",
+"assets/AssetManifest.json": "2b33ba059b3d32eb949f1cb14e1b8ea1",
 "assets/assets/images/green_logo.png": "99493da405d57f21308f1e1d9cd33dd5",
-"assets/env2": "ffcef2dda52cd314cfbab54bf6db1fdf",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "fed9f0bdfa8cd54de682d26718cf23b8",
 "assets/lib/modules/admin/i18n/en_US.json": "a7da2438f7693b0c1e962fa593f96ebb",
@@ -47,8 +46,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "bd09bda5aee7f43e630b8a15df216037
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "3f8675e8fb0ef9564f94678c3c2d5c1f",
-"/": "3f8675e8fb0ef9564f94678c3c2d5c1f",
+"index.html": "c3f7c2b18ba2fbf211ba3af711a48752",
+"/": "c3f7c2b18ba2fbf211ba3af711a48752",
 "main.dart.js": "717262820e2e3138f05f35d76feedeca",
 "manifest.json": "844fb612202dd99862a749964fa03d3f",
 "version.json": "65f85cfadbfe22cb374c30b4edceb71b"};
